@@ -4,6 +4,6 @@
 #### A game developer and designer from Turkiye.
 ##### A recent engineering graduate who developed himself in game development, CGI and engineering.
 
-🤔My current adventure: Make hyper casual games.
+🤔My current adventure: Make strategy games.
 
 Contact me at emircanakgol@gmail.com !
